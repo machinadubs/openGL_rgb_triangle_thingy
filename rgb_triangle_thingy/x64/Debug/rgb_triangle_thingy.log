@@ -1,0 +1,3 @@
+﻿  main.cpp
+N:\game_dev\repos\rgb_triangle_thingy\rgb_triangle_thingy\main.cpp(96,25): warning C4101: 'EBO': unreferenced local variable
+  rgb_triangle_thingy.vcxproj -> N:\game_dev\repos\rgb_triangle_thingy\x64\Debug\rgb_triangle_thingy.exe
